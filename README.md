@@ -29,8 +29,9 @@ Check out the live demo: [ToDoApp Live Preview](https://rainbow-jelly-3dcc32.net
   ```
 4. Start the development server:
   ```bash
-  npm start
-  ```
+  npm run dev
+5. Open the project in your browser at [http://localhost:5173](http://localhost:5173)
+
 
 ## Usage
 
